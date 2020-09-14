@@ -9,6 +9,10 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 * [Introdução à Integração Contínua - UFPR Jandaia do Sul](http://www.lazarodm.com.br/post/ci-live/)
 * [Como configurei Continuous Delivery para este blog...](http://www.lazarodm.com.br/post/blog-continuous-delivery/)
 
+### A 🥠 for you 
+
+![](http://images.lazarodm.com.br/image/fortune?fontSize=15)
+
 <!--
 **lazaromenezes/lazaromenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
