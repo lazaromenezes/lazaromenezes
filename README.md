@@ -6,8 +6,8 @@ My name is Lázaro, a developer from Brazil.
 Here you can find a lot of experiments I do, mostly for practicing something new.
 
 ### My lastest posts
-1. [Introdução à Integração Contínua - UFPR Jandaia do Sul](http://www.lazarodm.com.br/post/ci-live/)
-2. [Como configurei Continuous Delivery para este blog...](http://www.lazarodm.com.br/post/blog-continuous-delivery/)
+* [Introdução à Integração Contínua - UFPR Jandaia do Sul](http://www.lazarodm.com.br/post/ci-live/)
+* [Como configurei Continuous Delivery para este blog...](http://www.lazarodm.com.br/post/blog-continuous-delivery/)
 
 <!--
 **lazaromenezes/lazaromenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
