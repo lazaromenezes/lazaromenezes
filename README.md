@@ -11,7 +11,7 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 
 ### A 🥠 for you 
 
-![](http://images.lazarodm.com.br/image/fortune?fontSize=15)
+![](http://images.lazarodm.com.br/image/fortune?fontSize=15#)
 
 <!--
 **lazaromenezes/lazaromenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
