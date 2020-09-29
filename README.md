@@ -2,7 +2,8 @@
 
 Hi there 👋
 
-My name is Lázaro, a developer from Brazil, currently working for [Actminds](https://www.actminds.com/) and [Programmer's](https://www.programmers.com.br/)
+My name is Lázaro, a developer from Brazil currently working for [Actminds](https://www.actminds.com/) and [Programmer's](https://www.programmers.com.br/).
+
 Here you can find a lot of experiments I do, mostly for practicing something new. 
 
 ### My lastest posts
