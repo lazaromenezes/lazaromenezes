@@ -1,0 +1,25 @@
+name: Update profile
+
+on:
+  repository_dispatch:
+    types: [blog_deployed]
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'README.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code checkout
+        uses: action/checkout@v2
+
+      - name: Update Readme
+        run: python build.py > README.md
+
+      - name: Push Readme
+        run: |
+          git commit -am "Blog update trigger"
+          git push origin master
