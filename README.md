@@ -18,7 +18,7 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 
 ### A 🥠 for you 
 
-![Loading a fortune...](http://images.lazarodm.com.br/image/fortune?fontSize=15#)
+![Loading a fortune...](http://images.lazarodm.com.br/image/fortune?fontSize=15# "Fortune cookie")
 
 [visitors]: https://visitor-badge.glitch.me/badge?page_id=lazaromenezes.porfile-views
 
