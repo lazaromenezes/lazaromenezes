@@ -18,8 +18,8 @@ jobs:
 
       - name: Update Readme
         run: |
-          pip install requests
-          python build.py > README.md
+          pip3 install requests
+          python3 build.py > README.md
 
       - name: Push Readme
         run: |
