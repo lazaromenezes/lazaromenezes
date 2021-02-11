@@ -8,7 +8,7 @@ def from_items(pt_item, en_item):
     url_pt = pt_item.find('link').text
     url_en = en_item.find('link').text
 
-    return "| [{0}]({1}) | [{2}]({3}) |".format(title_pt, url_pt, title_en, title_pt)
+    return "| [{0}]({1}) | [{2}]({3}) |".format(title_pt, url_pt, title_en, url_en)
 
 def load_rss_items(url):
     data = requests.get(url)
