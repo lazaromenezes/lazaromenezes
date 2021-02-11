@@ -11,12 +11,17 @@ class Post:
 
 if __name__ == '__main__':
 
+    with open('README.md.template', 'r') as template_file:
+        template = template_file.read()
+
     post = Post()
     post.title_pt = "OI"
     post.title_en = "HI"
     post.url_pt = "http://oi"
     post.url_en = "http://hi"
 
-    print(post.toMdTableRow())
+    result = template.replace('{{POSTS}}', post.toMdTableRow())
+
+    print(result)
 
 
