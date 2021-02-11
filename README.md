@@ -10,14 +10,15 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 
 | :brazil: | :us: |
 |----------|-------------|
-| [Improving your Business with DevOps](http://www.lazarodm.com.br/post/actminds-devops-article/)| [Improving your Business with DevOps](http://www.lazarodm.com.br/en/post/actminds-devops-article/) |
+| [Fonte de bancada com fonte ATX](http://www.lazarodm.com.br/post/atx-power-supply/) | [ATX Power Supply](http://www.lazarodm.com.br/en/post/atx-power-supply/) |
+| [Improving Your Business With DevOps](http://www.lazarodm.com.br/post/actminds-devops-article/) | [Improving Your Business With DevOps](http://www.lazarodm.com.br/en/post/actminds-devops-article/) |
 | [Brincando com o perfil do Github](http://www.lazarodm.com.br/post/playing-with-github-profile/) | [Playing With Github Profile](http://www.lazarodm.com.br/en/post/playing-with-github-profile/) |
 | [Introdução à Integração Contínua - UFPR Jandaia do Sul](http://www.lazarodm.com.br/post/ci-live/) | [CI Introduction - UFPR Jandaia do Sul](http://www.lazarodm.com.br/en/post/ci-live/) |
 | [Como configurei Continuous Delivery para este blog...](http://www.lazarodm.com.br/post/blog-continuous-delivery/) | [How did I setup Continuous Delivery for this blog...](http://www.lazarodm.com.br/en/post/blog-continuous-delivery/) |
-
 
 ### A 🥠 for you 
 
 ![Loading a fortune...](http://images.lazarodm.com.br/image/fortune?fontSize=15#)
 
 [visitors]: https://visitor-badge.glitch.me/badge?page_id=lazaromenezes.porfile-views
+
