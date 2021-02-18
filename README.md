@@ -10,6 +10,7 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 
 | :brazil: | :us: |
 |----------|-------------|
+| [Fortune API](http://www.lazarodm.com.br/post/fortune-api/) | [Fortune API](http://www.lazarodm.com.br/en/post/fortune-api/) |
 | [Fonte de bancada com fonte ATX](http://www.lazarodm.com.br/post/atx-power-supply/) | [ATX Power Supply](http://www.lazarodm.com.br/en/post/atx-power-supply/) |
 | [Improving Your Business With DevOps](http://www.lazarodm.com.br/post/actminds-devops-article/) | [Improving Your Business With DevOps](http://www.lazarodm.com.br/en/post/actminds-devops-article/) |
 | [Brincando com o perfil do Github](http://www.lazarodm.com.br/post/playing-with-github-profile/) | [Playing With Github Profile](http://www.lazarodm.com.br/en/post/playing-with-github-profile/) |
