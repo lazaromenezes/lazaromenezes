@@ -28,6 +28,11 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git commit -am "Blog update trigger"
-          git push origin master --quiet
+          if [ "`git status --porcelain`" != "" ]
+          then
+            git commit -am "Blog update trigger"
+            git push origin master
+          else
+            echo "No updates to were made" 
+          fi
 
