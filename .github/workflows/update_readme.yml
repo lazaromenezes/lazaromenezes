@@ -33,6 +33,6 @@ jobs:
             git commit -am "Blog update trigger"
             git push origin master
           else
-            echo "No updates to were made" 
+            echo "No updates were made" 
           fi
 
