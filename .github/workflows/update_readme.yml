@@ -20,7 +20,13 @@ jobs:
         run: |
           pip3 install requests
           python3 build.py > README.md
+
+      - name: Setup Git
+        run: |
           git config user.name "Lazaro Menezes via Github Actions"
           git config user.email "lazarodm@gmail.com"
+
+      - name: Commit and Push
+        run: |
           git commit -am "Blog update trigger"
-          git push origin master
+          git push origin master --quiet
