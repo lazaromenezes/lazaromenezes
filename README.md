@@ -10,6 +10,7 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 
 | :brazil: | :us: |
 |----------|-------------|
+| [Preparando uma aplicação AspNet Core para o Heroku](http://www.lazarodm.com.br/post/heroku-dotnet-core-deployment/) | [Getting an AspNet Core app ready for Heroku](http://www.lazarodm.com.br/en/post/heroku-dotnet-core-deployment/) |
 | [Fortune API](http://www.lazarodm.com.br/post/fortune-api/) | [Fortune API](http://www.lazarodm.com.br/en/post/fortune-api/) |
 | [Fonte de bancada com fonte ATX](http://www.lazarodm.com.br/post/atx-power-supply/) | [ATX Power Supply](http://www.lazarodm.com.br/en/post/atx-power-supply/) |
 | [Improving Your Business With DevOps](http://www.lazarodm.com.br/post/actminds-devops-article/) | [Improving Your Business With DevOps](http://www.lazarodm.com.br/en/post/actminds-devops-article/) |
