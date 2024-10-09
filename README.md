@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20">](https://www.linkedin.com/in/lazarodm) [<img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" width="80" height="20"/>](https://twitter.com/LzaroMenez40614)
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="80" height="20">](https://www.linkedin.com/in/lazarodm)
 
 Hi there 👋
 
