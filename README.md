@@ -10,13 +10,13 @@ Here you can find a lot of experiments I do, mostly for practicing something new
 
 | :brazil: | :us: |
 |----------|-------------|
-| [Preparando uma aplicação AspNet Core para o Heroku](http://www.lazarodm.com.br/posts/heroku-dotnet-core-deployment/) | [Getting an AspNet Core app ready for Heroku](http://www.lazarodm.com.br/en/posts/heroku-dotnet-core-deployment/) |
-| [Fortune API](http://www.lazarodm.com.br/posts/fortune-api/) | [Fortune API](http://www.lazarodm.com.br/en/posts/fortune-api/) |
-| [Fonte de bancada com fonte ATX](http://www.lazarodm.com.br/posts/atx-power-supply/) | [ATX Power Supply](http://www.lazarodm.com.br/en/posts/atx-power-supply/) |
-| [Improving Your Business With DevOps](http://www.lazarodm.com.br/posts/actminds-devops-article/) | [Improving Your Business With DevOps](http://www.lazarodm.com.br/en/posts/actminds-devops-article/) |
-| [Brincando com o perfil do Github](http://www.lazarodm.com.br/posts/playing-with-github-profile/) | [Playing With Github Profile](http://www.lazarodm.com.br/en/posts/playing-with-github-profile/) |
-| [Introdução à Integração Contínua - UFPR Jandaia do Sul](http://www.lazarodm.com.br/posts/ci-live/) | [CI Introduction - UFPR Jandaia do Sul](http://www.lazarodm.com.br/en/posts/ci-live/) |
-| [Como configurei Continuous Delivery para este blog...](http://www.lazarodm.com.br/posts/blog-continuous-delivery/) | [How did I setup Continuous Delivery for this blog...](http://www.lazarodm.com.br/en/posts/blog-continuous-delivery/) |
+| [Deploy Contínuo para Godot no Itch.io](http://www.lazarodm.com.br/posts/godot-build-pipeline/) | [Getting an AspNet Core app ready for Heroku](http://www.lazarodm.com.br/en/posts/heroku-dotnet-core-deployment/) |
+| [Preparando uma aplicação AspNet Core para o Heroku](http://www.lazarodm.com.br/posts/heroku-dotnet-core-deployment/) | [Fortune API](http://www.lazarodm.com.br/en/posts/fortune-api/) |
+| [Fortune API](http://www.lazarodm.com.br/posts/fortune-api/) | [ATX Power Supply](http://www.lazarodm.com.br/en/posts/atx-power-supply/) |
+| [Fonte de bancada com fonte ATX](http://www.lazarodm.com.br/posts/atx-power-supply/) | [Improving Your Business With DevOps](http://www.lazarodm.com.br/en/posts/actminds-devops-article/) |
+| [Improving Your Business With DevOps](http://www.lazarodm.com.br/posts/actminds-devops-article/) | [Playing With Github Profile](http://www.lazarodm.com.br/en/posts/playing-with-github-profile/) |
+| [Brincando com o perfil do Github](http://www.lazarodm.com.br/posts/playing-with-github-profile/) | [CI Introduction - UFPR Jandaia do Sul](http://www.lazarodm.com.br/en/posts/ci-live/) |
+| [Introdução à Integração Contínua - UFPR Jandaia do Sul](http://www.lazarodm.com.br/posts/ci-live/) | [How did I setup Continuous Delivery for this blog...](http://www.lazarodm.com.br/en/posts/blog-continuous-delivery/) |
 
 ### A 🥠 for you 
 
